@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+}
+
+.main-banner {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url("/Users/alanyoung/Documents/broadway-design/resources/images/the-flatiron-building.png");
+  background-size: cover;
+}
+
+a {
+  color: white;
+}
+
+li {
+  margin: 20px;
+}
+
+#main-list {
+  font-weight: normal;
+  font-size: 18px;
+  list-style-type: none;
+  color: white;
+  margin: 20px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.nyc {
+  color: white;
+  background-image: url("/Users/alanyoung/Documents/broadway-design/resources/images/the-flatiron-building.png");
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+
+.footer {
+  font-family: Helvetica;
+  font-weight: normal;
+  font-size: 18px;
+  list-style-type: none;
+  color: white;
+  text-align: left;
+  background-color: dimgrey;
+}
